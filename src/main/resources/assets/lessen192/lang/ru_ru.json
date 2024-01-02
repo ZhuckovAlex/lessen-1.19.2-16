@@ -1,0 +1,22 @@
+{
+  "item.lessen192.box": "Коробка",
+  "item.lessen192.zircon": "Циркон",
+  "item.lessen192.soap_water_bucket": "Ведро мыльной воды",
+  "block.lessen192.block_lessen": "Учебный блок",
+  "block.lessen192.custom_planks": "Новые доски",
+  "block.lessen192.custom_log": "Кастомное бревно",
+  "block.lessen192.custom_wood": "Кастомная древесина",
+  "item.lessen192.custom_leaves": "Кастомная листва",
+  "block.lessen192.custom_leaves": "Кастомная листва",
+  "block.lessen192.chlopok": "Хлопок",
+  "item.lessen192.chlopok": "Хлопок",
+  "item.lessen192.custom_sapling": "Кастомный саженец",
+  "block.lessen192.custom_sapling": "Кастомный саженец",
+  "block.lessen192.stripped_custom_log": "Обтёсанная кастомное бревно",
+  "block.lessen192.stripped_custom_wood": "Обтёсанная кастомная древесина",
+  "block.lessen192.deepslate_zircon_ore": "Цирконовая руда глубинная",
+  "block.lessen192.endstone_zircon_ore": "Цирконовая руда энда",
+  "block.lessen192.netherrack_zircon_ore": "Цирконовая руда незера",
+  "block.lessen192.zircon_ore": "Цирконовая руда",
+  "itemGroup.items_lessen": "Предметы урока"
+}

@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "age=0": { "model": "lessen192:block/chlopok0" },
+    "age=1": { "model": "lessen192:block/chlopok1" },
+    "age=2": { "model": "lessen192:block/chlopok2" },
+    "age=3": { "model": "lessen192:block/chlopok3" },
+    "age=4": { "model": "lessen192:block/chlopok4" }
+  }
+}

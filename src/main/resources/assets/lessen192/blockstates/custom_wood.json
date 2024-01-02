@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "lessen192:block/custom_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "lessen192:block/custom_wood"
+    },
+    "axis=z": {
+      "model": "lessen192:block/custom_wood_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "lessen192:block/custom_sapling"
+  },"render_type": "cutout"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "lessen192:block/custom_leaves"
+  },  "render_type": "cutout"
+}

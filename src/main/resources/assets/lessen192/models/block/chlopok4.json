@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "lessen192:block/chlopok4"
+  },  "render_type": "cutout"
+}
